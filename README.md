@@ -5,7 +5,6 @@
 - 😄 Gosto muito de programação e pretendo me tornar um bom profissional na área
 - 📫 Contato: lluckaslink@gmail.com
 - ⚡ hobbies: games, artes e musica.
--->
 
 <div>
   <a href="https://github.com/Lucasciel">
