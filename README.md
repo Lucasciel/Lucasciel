@@ -1,4 +1,4 @@
-<h1>olá, sou Lucas!. Estudante e futuramente Desenvolvedor Front-End </h1>
+<h1>olá, sou Lucas!. Estudante e Desenvolvedor Front-End </h1>
 
 - 🔭 Atualmente faço ciências da computação, 6°semestre.
 - 🌱 Estudando Front end, ja sei bastante de HTML5, CSS3 e javascript
