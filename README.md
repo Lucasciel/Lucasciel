@@ -1,7 +1,7 @@
 <h1>olá, sou Lucas!. Estudante e Desenvolvedor Front-End </h1>
 
-- 🔭 Atualmente faço ciências da computação, 6°semestre.
-- 🌱 Estudando Front end, ja sei bastante de HTML5, CSS3 e javascript
+- 🔭 Atualmente faço ciências da computação, 7°semestre.
+- 🌱 Estudando back-end no momento
 - 😄 Gosto muito de programação e pretendo me tornar um bom profissional na área
 - 📫 Contato: lluckaslink@gmail.com
 - ⚡ hobbies: games, artes e musica.
