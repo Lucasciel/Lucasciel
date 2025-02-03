@@ -1,4 +1,4 @@
-<h1>olá, sou Lucas!. Estudante e Desenvolvedor Front-End </h1>
+<h1>olá, sou Lucas!. Desenvolvedor Fullstack </h1>
 
 - 🔭 Atualmente faço ciências da computação, 7°semestre.
 - 🌱 Estudando back-end no momento
